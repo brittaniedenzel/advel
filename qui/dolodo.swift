@@ -1,0 +1,2 @@
+   while i != c.endIndex {
+   
